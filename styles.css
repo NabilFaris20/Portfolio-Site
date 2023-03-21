@@ -34,7 +34,7 @@ h1{
 	font-family: 'Lato', sans-serif;
 	color: #8F43EE;
 	font-size: 5.625rem;
-	padding-top: 300px;
+	padding-top: 30vh;
 	position: relative;
 }
 
@@ -42,7 +42,7 @@ h1{
 	font-family: 'Lato', sans-serif;
 	color: #8F43EE;
 	font-size: 2.5rem;
-	padding-bottom: 350px;
+	padding-bottom: 40vh;
 	position: relative;
 }
 
@@ -55,7 +55,7 @@ h1{
 
 /* MEDIA QUARIES */
 
-@media (max-width: 500px){
+/* @media (max-width: 500px){
 	.Opener{
 		font-size: 3.5rem;
 		padding-top: 50px;
@@ -65,4 +65,4 @@ h1{
 		padding-bottom: 50px;
 		font-size: 1.5rem;
 	}
-}
+} */
