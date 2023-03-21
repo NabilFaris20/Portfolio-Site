@@ -1,0 +1,55 @@
+
+body {
+		
+     text-align: center;
+	 margin: 0;
+	 background: #2D2727;
+}
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+h1{
+	margin: 50px auto 0 auto; 
+}
+
+
+/* CLASS CLASSIFICATIONS */
+
+.About-me {
+	background-color: blue;
+}
+
+.container-fluid {
+    
+     
+}
+
+.Opener {
+	font-family: 'Lato', sans-serif;
+	color: #8F43EE;
+	font-size: 5.625rem;
+	padding-top: 300px;
+	position: relative;
+}
+
+.descrip {
+	font-family: 'Lato', sans-serif;
+	color: #8F43EE;
+	font-size: 2.5rem;
+	padding-bottom: 350px;
+	position: relative;
+}
+
+.pro {
+    
+	color: #F0EB8D;
+}
+
+/* ID CLASSIFICATIONS */
+
