@@ -53,3 +53,16 @@ h1{
 
 /* ID CLASSIFICATIONS */
 
+/* MEDIA QUARIES */
+
+@media (max-width: 500px){
+	.Opener{
+		font-size: 3.5rem;
+		padding-top: 50px;
+	}
+
+	.descrip {
+		padding-bottom: 50px;
+		font-size: 1.5rem;
+	}
+}
